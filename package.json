@@ -1,5 +1,5 @@
 {
-  "name": "sr-currency-converter",
+  "name": "shiv-currency-converter",
   "version": "1.0.0",
   "description": "An npm package to convert currency",
   "main": "index.js",
